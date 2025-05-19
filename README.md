@@ -10,6 +10,10 @@ Since it launched, over 800,000 businesses have used Logome to create their bran
 
 ## Logome Overview
 
+<a href="https://afftrend.com/logome">
+  <img src="https://drive.google.com/uc?export=view&id=1DvXHVqt67F53ut0FDYAhR3cbzeT-e4cj" width="800px" alt="">
+</a>
+
 Logome is an AI-powered branding tool that helps you create logos, brand kits, websites, and marketing assets — all in one place. It’s designed for people who don’t have design skills but still want to build a strong brand. You start by entering your brand name, choosing your style, and then Logome gives you several logo options to pick from. After that, it creates a full brand kit with matching colors, fonts, templates, and even a simple website if you need one.
 
 What makes Logome different is how fast and easy it is to use. You don’t need to figure out complex tools or spend hours designing. It also includes helpful extras like social media templates, business cards, and presentation slides — all matched to your brand style. For small businesses and startups trying to get online quickly and professionally, this saves time and money.
