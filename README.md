@@ -8,7 +8,7 @@ If you want to create a logo and build your brand without hiring a designer, Log
 
 Since it launched, over 800,000 businesses have used Logome to create their brand identity. That shows just how useful and trusted it has become for people who want to look professional without spending a lot.
 
-## Logome Overview
+## Logome Highlights
 
 <a href="https://afftrend.com/logome">
   <img src="https://drive.google.com/uc?export=view&id=1DvXHVqt67F53ut0FDYAhR3cbzeT-e4cj" width="800px" alt="">
